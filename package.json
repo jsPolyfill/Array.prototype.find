@@ -1,5 +1,5 @@
 {
-  "name": "jsPolyfill#array.prototype.find",
+  "name": "jspolyfill-array.prototype.find",
   "version": "0.1.0",
   "description": "Polyfill for the find method that is still not available on ES5",
   "main": "find.js",
