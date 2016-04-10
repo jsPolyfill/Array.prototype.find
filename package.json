@@ -1,7 +1,7 @@
 {
   "name": "jspolyfill-array.prototype.find",
   "version": "0.1.0",
-  "description": "Polyfill for the find method that is still not available on ES5",
+  "description": "Array.prototype.find ES6 polyfill for ES5 versions and lower.",
   "main": "find.js",
   "scripts": {
     "test": "ava -v"
