@@ -1,0 +1,29 @@
+{
+  "name": "jsPolyfill#array.prototype.find",
+  "version": "0.1.0",
+  "description": "Polyfill for the find method that is still not available on ES5",
+  "main": "find.js",
+  "scripts": {
+    "test": "ava -v"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsPolyfill/Array.prototype.find.git"
+  },
+  "keywords": [
+    "array",
+    "polyfill",
+    "js",
+    "ES6",
+    "ES5"
+  ],
+  "author": "Crisoforo Gaspar Hernandez <hello@crisoforo.com> (http://crisoforo.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jsPolyfill/Array.prototype.find/issues"
+  },
+  "homepage": "https://github.com/jsPolyfill/Array.prototype.find#readme",
+  "devDependencies": {
+    "ava": "^0.14.0"
+  }
+}
