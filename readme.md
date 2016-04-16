@@ -1,11 +1,11 @@
-# Array.prototype.find ES6 polyfill for ES5 versions and lower.
-
+# Array.prototype.find ES6 polyfill for ES5 versions and lower. 
 > Array.prototype.find ES6 polyfill for ES5 versions and lower via NPM,
 > you only need to require the module in order to have it working in
 > order to use knowing that is going to work in browsers that does not
 > support this function natively.
 
-Based from [Mozilla polyfill](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/find#Polyfill).
+[![Build Status](https://travis-ci.org/jsPolyfill/Array.prototype.find.svg?branch=master)](https://travis-ci.org/jsPolyfill/Array.prototype.find) - Based from [Mozilla polyfill](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/find#Polyfill).
+
 
 # Installation.
 
